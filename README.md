@@ -8,7 +8,7 @@ I'm a **passionate Full Stack Developer** with a focus on building scalable, eff
 - 🌱 Currently exploring **Blockchain Technology** and **AI/ML** to build smarter, secure, and future-ready applications.
 - 💻 I specialize in **MERN Stack Development** with strong problem-solving skills.
 - 🔍 Always eager to **learn new technologies** and expand my skill set.
-- 🛠️ Finalist in **National Level Hackathons** like *Mind Installer Decathlon*, showcasing my ability to build and innovate under pressure.
+- 🛠️ Finalist in **National Level Hackathons** like *Mind Installer Hackathon*, showcasing my ability to build and innovate under pressure.
 - 🎯 Goal-driven, proactive, and passionate about creating impactful software products.
 
 ---
