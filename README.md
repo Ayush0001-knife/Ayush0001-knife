@@ -69,9 +69,9 @@ A project that allows **multiple tenants to manage tasks independently** within 
 ---
 
 ## 🏆 Achievements
-- **Finalist** – Mind Installer Decathlon (National Level), secured **12th rank**.
+- **Finalist** – Mind Installer Hackathon (National Level), secured **12th rank**.
 - **4th Position** – Intra-College Hackathon.
-- **Semifinalist** – National Level Hackathon (Make in India Hackathon).
+- **Semifinalist** – Hackemon (National Level) 
 
 ---
 
