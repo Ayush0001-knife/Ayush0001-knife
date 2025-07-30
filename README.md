@@ -77,7 +77,8 @@ A project that allows **multiple tenants to manage tasks independently** within 
 
 ## 📫 Let's Connect!
 - **LinkedIn:** [Ayush’s LinkedIn](#)
-- **Email:** [Your Email Here]
+- **Email:** ayushgautam1432007@gmail.com
+  
 
 ---
 
